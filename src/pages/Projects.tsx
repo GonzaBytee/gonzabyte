@@ -53,6 +53,14 @@ const projects = [
 		live: 'https://brainswave.netlify.app/',
 		tags: ['React.js', 'Tailwind CSS', 'JavaScript', 'Vite']
 	},
+	{
+		title: 'Brainwave Project',
+		description: 'A modern AI application built with React JS and Tailwind CSS, featuring smooth animations, unique design elements, and responsive layouts.Ideal for enhancing web development skills',
+		image: '/projects_img/project-6.png',
+		github: 'https://github.com/niladri-1/Brainwave-Project',
+		live: 'https://brainswave.netlify.app/',
+		tags: ['React.js', 'Tailwind CSS', 'JavaScript', 'Vite']
+	},
 ];
 
 const Projects = () => {
